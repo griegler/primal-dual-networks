@@ -9,8 +9,8 @@ The training data for the guided depth super-resolution is available [here](http
 
 ## Publications
 The papers explaining the methods are on arxiv:
-- (ATGV-Net: Accurate Depth Super-Resolution)[https://arxiv.org/abs/1607.07988]
-- (A Deep Primal-Dual Network for Guided Depth Super-Resolution)[https://arxiv.org/abs/1607.08569]
+- [ATGV-Net: Accurate Depth Super-Resolution](https://arxiv.org/abs/1607.07988)
+- [A Deep Primal-Dual Network for Guided Depth Super-Resolution](https://arxiv.org/abs/1607.08569)
 
 If you find the code, or the data useful for your research, please cite
 
