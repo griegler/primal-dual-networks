@@ -1,8 +1,5 @@
 # Deep Primal-Dual Networks
 
-Code for the project will be uploaded soon.
-
-
 ## Datasets
 The training data used for the depth only super-resolution method is available [here](https://drive.google.com/drive/folders/0B-TLBHhAnzw8VWc3SWpHaVd1N0U?usp=sharing).
 The training data for the guided depth super-resolution is available [here](https://drive.google.com/drive/folders/0B-TLBHhAnzw8V0xzT3VxclhmWm8?usp=sharing).
