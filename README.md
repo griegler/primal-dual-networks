@@ -6,6 +6,7 @@ It consists of three tar files, one for each benchmark dataset used in our paper
   - dataset_mb.tar: noiseless Middleburry
   - dataset_nmb.tar: noisy Middleburry
   - dataset_tm_ta.tar: ToFMark
+  
 They mainly differ in the scaling of the depth values.
   
 The training data for the guided depth super-resolution is available [here](https://drive.google.com/drive/folders/0B-TLBHhAnzw8V0xzT3VxclhmWm8?usp=sharing).
